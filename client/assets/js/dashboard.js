@@ -9,12 +9,6 @@ $(document).ready(function () {
     currency: "USD",
   });
 
-  // displays alias in the page
-  $.ajax({
-    type: "GET",
-    url: "/auth/user",
-  }).then((res) => (userAlias = res.alias));
-
   $("#shoeCollection").on("click", () => {
     window.location.href = "/collection";
   });
