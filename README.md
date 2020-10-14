@@ -30,7 +30,7 @@ Working with a team to develop a full-stack web application, designing and build
 
 In development - [GitHub](https://github.com/ichoi21/Shoequelize)
 Deployed - [heroku](https://shoequelize2.herokuapp.com)
-Indepthed detail, please refer to [Developer's Press](add link)
+Developer detail - please refer to Developer Press page located in the footer
 
 <hr>
 
